@@ -1,0 +1,16 @@
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\bin\Debug\net6.0-windows\AnimationSeparator.exe
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\bin\Debug\net6.0-windows\AnimationSeparator.deps.json
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\bin\Debug\net6.0-windows\AnimationSeparator.runtimeconfig.json
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\bin\Debug\net6.0-windows\AnimationSeparator.dll
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\bin\Debug\net6.0-windows\AnimationSeparator.pdb
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Debug\net6.0-windows\AnimationSeparator.Form1.resources
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Debug\net6.0-windows\AnimationSeparator.csproj.GenerateResource.cache
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Debug\net6.0-windows\AnimationSeparator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Debug\net6.0-windows\AnimationSeparator.AssemblyInfoInputs.cache
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Debug\net6.0-windows\AnimationSeparator.AssemblyInfo.cs
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Debug\net6.0-windows\AnimationSeparator.csproj.CoreCompileInputs.cache
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Debug\net6.0-windows\AnimationSeparator.dll
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Debug\net6.0-windows\refint\AnimationSeparator.dll
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Debug\net6.0-windows\AnimationSeparator.pdb
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Debug\net6.0-windows\AnimationSeparator.genruntimeconfig.cache
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Debug\net6.0-windows\ref\AnimationSeparator.dll

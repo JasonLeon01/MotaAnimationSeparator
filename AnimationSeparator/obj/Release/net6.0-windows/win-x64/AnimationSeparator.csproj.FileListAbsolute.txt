@@ -1,0 +1,16 @@
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\bin\Release\net6.0-windows\win-x64\AnimationSeparator.exe
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\bin\Release\net6.0-windows\win-x64\AnimationSeparator.deps.json
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\bin\Release\net6.0-windows\win-x64\AnimationSeparator.runtimeconfig.json
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\bin\Release\net6.0-windows\win-x64\AnimationSeparator.dll
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\bin\Release\net6.0-windows\win-x64\AnimationSeparator.pdb
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Release\net6.0-windows\win-x64\AnimationSeparator.Form1.resources
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Release\net6.0-windows\win-x64\AnimationSeparator.csproj.GenerateResource.cache
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Release\net6.0-windows\win-x64\AnimationSeparator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Release\net6.0-windows\win-x64\AnimationSeparator.AssemblyInfoInputs.cache
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Release\net6.0-windows\win-x64\AnimationSeparator.AssemblyInfo.cs
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Release\net6.0-windows\win-x64\AnimationSeparator.csproj.CoreCompileInputs.cache
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Release\net6.0-windows\win-x64\AnimationSeparator.dll
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Release\net6.0-windows\win-x64\refint\AnimationSeparator.dll
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Release\net6.0-windows\win-x64\AnimationSeparator.pdb
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Release\net6.0-windows\win-x64\AnimationSeparator.genruntimeconfig.cache
+E:\Github Projects\MotaAnimationSeparator\AnimationSeparator\obj\Release\net6.0-windows\win-x64\ref\AnimationSeparator.dll
