@@ -6,4 +6,4 @@
 
 Sample:
 
-![image](E:\Github%20Projects\MotaAnimationSeparator\sample.png)
+![image](sample.png)
