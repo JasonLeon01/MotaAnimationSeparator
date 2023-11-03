@@ -16,7 +16,7 @@ namespace AnimationSeparator
             //创建对象
             OpenFileDialog ofg = new OpenFileDialog();
             //设置默认打开路径
-            ofg.InitialDirectory = Path.GetDirectoryName(Path.GetDirectoryName(Application.StartupPath)) + "\\graphics\\animation";
+            ofg.InitialDirectory = Path.GetDirectoryName(Path.GetDirectoryName(Application.ExecutablePath)) + "\\graphics\\animation";
             //设置打开标题、后缀
             ofg.Title = "请选择导入动画文件";
             ofg.Filter = "png文件|*.png";
